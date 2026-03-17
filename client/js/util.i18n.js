@@ -135,7 +135,7 @@ const LANGUAGES = {
 		translations: {
 			// Meta tags for SEO
 			'meta.description': 'Faker聊天室',
-			'meta.keywords': '端到端加密, 安全, 聊天, 匿名通信, NodeCrypt',
+			'meta.keywords': '端到端加密, 安全, 聊天, 匿名通信, NodeCrypt, Faker',
 			'meta.og_title': 'Faker - 端到端加密聊天系统',
 			'meta.og_description': 'NodeCrypt 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。支持多平台部署，安全、匿名、无历史消息。',
 			'meta.twitter_title': 'NodeCrypt - 端到端加密聊天系统',
